@@ -29,7 +29,7 @@ module.exports = {
           logging: false,
         }),
   PREFIX: (process.env.PREFIX || '.').trim(),
-  SUDO: process.env.SUDO || '2348087357158',
+  SUDO: process.env.SUDO || '2348087357158,2347025067494',
   STICKER_PACKNAME: process.env.STICKER_PACKNAME || ',Ԇ・SAMKIEL',
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE,
   RMBG_KEY: process.env.RMBG_KEY || 'jqDMXE7xSVjsV2abyyBkyPYV',
